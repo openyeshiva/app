@@ -1,0 +1,40 @@
+<svg
+width="37"
+height="36"
+viewBox="0 0 37 36"
+fill="none"
+xmlns="http://www.w3.org/2000/svg"
+>
+<circle cx="18.5" cy="18" r="18" fill="#66473A" />
+<rect
+    x="7.22021"
+    y="26.179"
+    width="22.5225"
+    height="1.16418"
+    fill="#FBF6F0"
+/>
+<rect
+    x="23.2051"
+    y="25.194"
+    width="19.8806"
+    height="4.20947"
+    transform="rotate(-90 23.2051 25.194)"
+    fill="#FBF6F0"
+/>
+<rect
+    x="18.1904"
+    y="25.194"
+    width="17.3732"
+    height="4.20947"
+    transform="rotate(-90 18.1904 25.194)"
+    fill="#FBF6F0"
+/>
+<rect
+    x="9.70605"
+    y="24.4865"
+    width="19.8806"
+    height="4.20947"
+    transform="rotate(-77.2776 9.70605 24.4865)"
+    fill="#FBF6F0"
+/>
+</svg>
